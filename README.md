@@ -1,4 +1,4 @@
-# Amazon Sales Data Analysis (Excel Project)
+# Flipkart Sales Data Analysis (Excel Project)
 
 ## Project Overview
 This project analyzes Amazon sales data using Microsoft Excel. 
