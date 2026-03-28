@@ -1,7 +1,7 @@
 # Flipkart Sales Data Analysis (Excel Project)
 
 ## Project Overview
-This project analyzes Amazon sales data using Microsoft Excel. 
+This project analyzes Flipkart sales data using Microsoft Excel. 
 The dataset contains order information such as order ID, date, status, 
 sales channel, shipping details, and product information.
 
