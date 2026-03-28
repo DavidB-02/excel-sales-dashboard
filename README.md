@@ -66,7 +66,7 @@ The following analysis was conducted using Pivot Tables:
 
 | File | Description |
 |-----|-------------|
-| amazon_sales_dataset.xlsx | Raw dataset used for analysis |
+| flipkart_sales_dataset.xlsx | Raw dataset used for analysis |
 | pivot_tables_analysis.xlsx | Excel file containing pivot tables and insights |
 
 ---
